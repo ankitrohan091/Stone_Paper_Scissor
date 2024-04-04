@@ -6,3 +6,4 @@ It also throws an error, if user write an wrong input.
 It takes input in words not number and then compare the strings.
 Computer generates every time a random input to compare with user.
 If user enter wrong input or turn is draw then the turn is not counted.
+<h2>This is not a project. It is a simple program. i just upload it on github to learning the process of adding repo on Github account</h2>
